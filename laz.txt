@@ -1,2 +1,3 @@
 lazar
 print
+added new line
